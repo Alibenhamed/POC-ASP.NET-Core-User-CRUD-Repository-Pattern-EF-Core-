@@ -1,0 +1,383 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\UserAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89571F1A-9B71-4EBC-B841-83B807879D67}|UserApi.DAL\\UserApi.DAL.csproj|c:\\users\\asus\\desktop\\userapi\\userapi.dal\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89571F1A-9B71-4EBC-B841-83B807879D67}|UserApi.DAL\\UserApi.DAL.csproj|solutionrelative:userapi.dal\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\UserAPI\\UserApi.DAL\\APIDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserApi.DAL\\APIDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\UserAPI\\UserApi.DAL\\Models\\APIDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserApi.DAL\\Models\\APIDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\UserAPI\\UserAPI.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserAPI.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\UserAPI\\UserApi.DAL\\Migrations\\20240319132739_Initial Create.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserApi.DAL\\Migrations\\20240319132739_Initial Create.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\UserAPI\\UserApi.DAL\\Migrations\\APIDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserApi.DAL\\Migrations\\APIDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\UserAPI\\UserAPI.BLL\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserAPI.BLL\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\UserAPI\\UserApi.DAL\\Migrations\\20240319132739_Initial Create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserApi.DAL\\Migrations\\20240319132739_Initial Create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\UserAPI\\UserAPI.BLL\\IUserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserAPI.BLL\\IUserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\UserAPI\\UserAPI\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserAPI\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE50FBB-CC2E-4BEA-B366-2376BB81A93B}|UserAPI.BLL\\UserAPI.BLL.csproj|c:\\users\\asus\\desktop\\userapi\\userapi.bll\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE50FBB-CC2E-4BEA-B366-2376BB81A93B}|UserAPI.BLL\\UserAPI.BLL.csproj|solutionrelative:userapi.bll\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069CF386-5543-420B-BC71-3F1096C0CCDB}|UserAPI\\UserAPI.csproj|c:\\users\\asus\\desktop\\userapi\\userapi\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069CF386-5543-420B-BC71-3F1096C0CCDB}|UserAPI\\UserAPI.csproj|solutionrelative:userapi\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89571F1A-9B71-4EBC-B841-83B807879D67}|UserApi.DAL\\UserApi.DAL.csproj|c:\\users\\asus\\desktop\\userapi\\userapi.dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89571F1A-9B71-4EBC-B841-83B807879D67}|UserApi.DAL\\UserApi.DAL.csproj|solutionrelative:userapi.dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069CF386-5543-420B-BC71-3F1096C0CCDB}|UserAPI\\UserAPI.csproj|c:\\users\\asus\\desktop\\userapi\\userapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069CF386-5543-420B-BC71-3F1096C0CCDB}|UserAPI\\UserAPI.csproj|solutionrelative:userapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89571F1A-9B71-4EBC-B841-83B807879D67}|UserApi.DAL\\UserApi.DAL.csproj|c:\\users\\asus\\desktop\\userapi\\userapi.dal\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89571F1A-9B71-4EBC-B841-83B807879D67}|UserApi.DAL\\UserApi.DAL.csproj|solutionrelative:userapi.dal\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89571F1A-9B71-4EBC-B841-83B807879D67}|UserApi.DAL\\UserApi.DAL.csproj|c:\\users\\asus\\desktop\\userapi\\userapi.dal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89571F1A-9B71-4EBC-B841-83B807879D67}|UserApi.DAL\\UserApi.DAL.csproj|solutionrelative:userapi.dal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069CF386-5543-420B-BC71-3F1096C0CCDB}|UserAPI\\UserAPI.csproj|c:\\users\\asus\\desktop\\userapi\\userapi\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069CF386-5543-420B-BC71-3F1096C0CCDB}|UserAPI\\UserAPI.csproj|solutionrelative:userapi\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069CF386-5543-420B-BC71-3F1096C0CCDB}|UserAPI\\UserAPI.csproj|c:\\users\\asus\\desktop\\userapi\\userapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069CF386-5543-420B-BC71-3F1096C0CCDB}|UserAPI\\UserAPI.csproj|solutionrelative:userapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069CF386-5543-420B-BC71-3F1096C0CCDB}|UserAPI\\UserAPI.csproj|c:\\users\\asus\\desktop\\userapi\\userapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{069CF386-5543-420B-BC71-3F1096C0CCDB}|UserAPI\\UserAPI.csproj|solutionrelative:userapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069CF386-5543-420B-BC71-3F1096C0CCDB}|UserAPI\\UserAPI.csproj|c:\\users\\asus\\desktop\\userapi\\userapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{069CF386-5543-420B-BC71-3F1096C0CCDB}|UserAPI\\UserAPI.csproj|solutionrelative:userapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE50FBB-CC2E-4BEA-B366-2376BB81A93B}|UserAPI.BLL\\UserAPI.BLL.csproj|c:\\users\\asus\\desktop\\userapi\\userapi.bll\\userapi.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0DE50FBB-CC2E-4BEA-B366-2376BB81A93B}|UserAPI.BLL\\UserAPI.BLL.csproj|solutionrelative:userapi.bll\\userapi.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069CF386-5543-420B-BC71-3F1096C0CCDB}|UserAPI\\UserAPI.csproj|c:\\users\\asus\\desktop\\userapi\\userapi\\userapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{069CF386-5543-420B-BC71-3F1096C0CCDB}|UserAPI\\UserAPI.csproj|solutionrelative:userapi\\userapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserAPI.BLL\\Implementations\\UserService.cs",
+              "RelativeDocumentMoniker": "UserAPI.BLL\\Implementations\\UserService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserAPI.BLL\\Implementations\\UserService.cs",
+              "RelativeToolTip": "UserAPI.BLL\\Implementations\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T09:21:55.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240319132739_Initial Create.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserApi.DAL\\Migrations\\20240319132739_Initial Create.Designer.cs",
+              "RelativeDocumentMoniker": "UserApi.DAL\\Migrations\\20240319132739_Initial Create.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserApi.DAL\\Migrations\\20240319132739_Initial Create.Designer.cs",
+              "RelativeToolTip": "UserApi.DAL\\Migrations\\20240319132739_Initial Create.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:57:17.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserApi.DAL\\Implementations\\UserRepository.cs",
+              "RelativeDocumentMoniker": "UserApi.DAL\\Implementations\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserApi.DAL\\Implementations\\UserRepository.cs",
+              "RelativeToolTip": "UserApi.DAL\\Implementations\\UserRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAawAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T09:01:16.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserAPI\\Usings.cs",
+              "RelativeDocumentMoniker": "UserAPI\\Usings.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserAPI\\Usings.cs",
+              "RelativeToolTip": "UserAPI\\Usings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T08:48:29.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "APIDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserApi.DAL\\APIDbContext.cs",
+              "RelativeDocumentMoniker": "UserApi.DAL\\APIDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserApi.DAL\\APIDbContext.cs",
+              "RelativeToolTip": "UserApi.DAL\\APIDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T12:55:59.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "APIDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserApi.DAL\\Migrations\\APIDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "UserApi.DAL\\Migrations\\APIDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserApi.DAL\\Migrations\\APIDbContextModelSnapshot.cs",
+              "RelativeToolTip": "UserApi.DAL\\Migrations\\APIDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T12:57:09.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserApi.DAL\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UserApi.DAL\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserApi.DAL\\Models\\User.cs",
+              "RelativeToolTip": "UserApi.DAL\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T12:56:03.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UserAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UserAPI\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAApwF4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T17:05:36.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserApi.DAL\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "UserApi.DAL\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserApi.DAL\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "UserApi.DAL\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAASwAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T08:59:38.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserAPI.BLL\\UserService.cs",
+              "RelativeDocumentMoniker": "UserAPI.BLL\\UserService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserAPI.BLL\\UserService.cs",
+              "RelativeToolTip": "UserAPI.BLL\\UserService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAlwCYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T12:56:56.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240319132739_Initial Create.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserApi.DAL\\Migrations\\20240319132739_Initial Create.cs",
+              "RelativeDocumentMoniker": "UserApi.DAL\\Migrations\\20240319132739_Initial Create.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserApi.DAL\\Migrations\\20240319132739_Initial Create.cs",
+              "RelativeToolTip": "UserApi.DAL\\Migrations\\20240319132739_Initial Create.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T12:57:05.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserApi.DAL\\appsettings.json",
+              "RelativeDocumentMoniker": "UserApi.DAL\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserApi.DAL\\appsettings.json",
+              "RelativeToolTip": "UserApi.DAL\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T12:57:26.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserAPI.BLL\\IUserService.cs",
+              "RelativeDocumentMoniker": "UserAPI.BLL\\IUserService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserAPI.BLL\\IUserService.cs",
+              "RelativeToolTip": "UserAPI.BLL\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T12:56:07.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "APIDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserApi.DAL\\Models\\APIDbContext.cs",
+              "RelativeDocumentMoniker": "UserApi.DAL\\Models\\APIDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserApi.DAL\\Models\\APIDbContext.cs",
+              "RelativeToolTip": "UserApi.DAL\\Models\\APIDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:17:50.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DemoController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserAPI\\Controllers\\DemoController.cs",
+              "RelativeDocumentMoniker": "UserAPI\\Controllers\\DemoController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserAPI\\Controllers\\DemoController.cs",
+              "RelativeToolTip": "UserAPI\\Controllers\\DemoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T12:41:14.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserAPI\\Program.cs",
+              "RelativeDocumentMoniker": "UserAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserAPI\\Program.cs",
+              "RelativeToolTip": "UserAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T12:44:37.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "UserAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "UserAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T12:57:53.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "UserAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserAPI\\appsettings.Development.json",
+              "RelativeToolTip": "UserAPI\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T12:57:54.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "UserAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserAPI\\appsettings.json",
+              "RelativeToolTip": "UserAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T12:57:55.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserAPI.BLL.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserAPI.BLL\\UserAPI.BLL.csproj",
+              "RelativeDocumentMoniker": "UserAPI.BLL\\UserAPI.BLL.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserAPI.BLL\\UserAPI.BLL.csproj",
+              "RelativeToolTip": "UserAPI.BLL\\UserAPI.BLL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-22T12:56:09.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserAPI\\UserAPI.csproj",
+              "RelativeDocumentMoniker": "UserAPI\\UserAPI.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserAPI\\UserAPI.csproj",
+              "RelativeToolTip": "UserAPI\\UserAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-22T08:49:56.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserAPI.csproj",
+              "RelativeDocumentMoniker": "UserAPI.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserAPI.csproj",
+              "RelativeToolTip": "UserAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-22T08:21:53.967Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

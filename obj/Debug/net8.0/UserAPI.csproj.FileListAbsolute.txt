@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\UserAPI\obj\Debug\net8.0\UserAPI.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\UserAPI\obj\Debug\net8.0\UserAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\UserAPI\obj\Debug\net8.0\UserAPI.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\UserAPI\obj\Debug\net8.0\UserAPI.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\UserAPI\obj\Debug\net8.0\UserAPI.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\UserAPI\obj\Debug\net8.0\UserAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\UserAPI\obj\Debug\net8.0\UserAPI.MvcApplicationPartsAssemblyInfo.cache

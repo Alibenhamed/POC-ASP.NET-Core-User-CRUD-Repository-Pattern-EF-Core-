@@ -9,7 +9,7 @@
       "UserApi.DAL/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "7.0.0",
-          "Microsoft.EntityFrameworkCore.Design": "6.0.20",
+          "Microsoft.EntityFrameworkCore.Design": "6.0.14",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.20",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.14"
         },
@@ -108,15 +108,15 @@
         }
       },
       "Microsoft.EntityFrameworkCore.Analyzers/7.0.0": {},
-      "Microsoft.EntityFrameworkCore.Design/6.0.20": {
+      "Microsoft.EntityFrameworkCore.Design/6.0.14": {
         "dependencies": {
           "Humanizer.Core": "2.8.26",
           "Microsoft.EntityFrameworkCore.Relational": "6.0.20"
         },
         "runtime": {
           "lib/net6.0/Microsoft.EntityFrameworkCore.Design.dll": {
-            "assemblyVersion": "6.0.20.0",
-            "fileVersion": "6.0.2023.31908"
+            "assemblyVersion": "6.0.14.0",
+            "fileVersion": "6.0.1423.6205"
           }
         }
       },
@@ -146,7 +146,7 @@
       },
       "Microsoft.EntityFrameworkCore.Tools/6.0.14": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.Design": "6.0.20"
+          "Microsoft.EntityFrameworkCore.Design": "6.0.14"
         }
       },
       "Microsoft.Extensions.Caching.Abstractions/7.0.0": {
@@ -528,12 +528,12 @@
       "path": "microsoft.entityframeworkcore.analyzers/7.0.0",
       "hashPath": "microsoft.entityframeworkcore.analyzers.7.0.0.nupkg.sha512"
     },
-    "Microsoft.EntityFrameworkCore.Design/6.0.20": {
+    "Microsoft.EntityFrameworkCore.Design/6.0.14": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-+rPqPMzfjM+f9jrT6jww1ixtxgQJ85TyPgEdZUEl5xbu5tKFwZgHngY0ESOJsUyE3+84xPDblwXnVvlw8oO4lw==",
-      "path": "microsoft.entityframeworkcore.design/6.0.20",
-      "hashPath": "microsoft.entityframeworkcore.design.6.0.20.nupkg.sha512"
+      "sha512": "sha512-/AbhTGuC1YmFK0T2VDUqYAFT/WYta3jK1AHyqFcsQFMqxv42bOJQ5rDeQy6+eUvozBrYlhA4VYSaqmnlrFokdw==",
+      "path": "microsoft.entityframeworkcore.design/6.0.14",
+      "hashPath": "microsoft.entityframeworkcore.design.6.0.14.nupkg.sha512"
     },
     "Microsoft.EntityFrameworkCore.Relational/6.0.20": {
       "type": "package",

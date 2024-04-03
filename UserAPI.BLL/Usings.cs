@@ -5,3 +5,6 @@ global using System.Threading.Tasks;
 global using UserApi.DAL;
 global using UserApi.DAL.Models;
 global using UserAPI.BLL.Interfaces;
+global using UserApi.DAL.Interfaces;
+global using Microsoft.EntityFrameworkCore.Design;
+

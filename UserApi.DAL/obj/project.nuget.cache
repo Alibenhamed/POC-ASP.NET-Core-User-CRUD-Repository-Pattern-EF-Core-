@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mzesZQPjHF2WtGwQ98B6fO2SFrkR4phxHK+p3BsK/hqtKlyU0ncSFPMZyRcZMOIP72l43v3gtgBsx9cQYybaVw==",
+  "dgSpecHash": "CFVIHZEsmocx51oH1uQOLYNd9LloBOXT+qgrSBwpzGlVIMthRQikzzde+w3TVdBDIDbqDV9spxylNNIK7cRBgA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ASUS\\Desktop\\UserAPI\\UserApi.DAL\\UserApi.DAL.csproj",
   "expectedPackageFiles": [
@@ -11,7 +11,7 @@
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0\\microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.0\\microsoft.entityframeworkcore.analyzers.7.0.0.nupkg.sha512",
-    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.20\\microsoft.entityframeworkcore.design.6.0.20.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.14\\microsoft.entityframeworkcore.design.6.0.14.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.20\\microsoft.entityframeworkcore.relational.6.0.20.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.20\\microsoft.entityframeworkcore.sqlserver.6.0.20.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.14\\microsoft.entityframeworkcore.tools.6.0.14.nupkg.sha512",

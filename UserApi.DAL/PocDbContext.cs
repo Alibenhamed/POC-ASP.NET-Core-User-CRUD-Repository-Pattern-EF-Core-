@@ -19,7 +19,7 @@ public class PocDbContext : DbContext
                 .IsRequired()
                 .HasMaxLength(200);
 
-            // configuratio  clé primaire
+            // configuration  clé primaire
             entity.HasKey(e => e.UserID);
 
             // configuration table

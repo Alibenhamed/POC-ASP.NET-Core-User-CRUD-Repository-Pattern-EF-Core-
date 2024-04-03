@@ -5,3 +5,4 @@ C:\Users\ASUS\Desktop\UserAPI\obj\Debug\net8.0\UserAPI.AssemblyInfo.cs
 C:\Users\ASUS\Desktop\UserAPI\obj\Debug\net8.0\UserAPI.csproj.CoreCompileInputs.cache
 C:\Users\ASUS\Desktop\UserAPI\obj\Debug\net8.0\UserAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\ASUS\Desktop\UserAPI\obj\Debug\net8.0\UserAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\UserAPI\obj\Debug\net8.0\UserAPI.sourcelink.json

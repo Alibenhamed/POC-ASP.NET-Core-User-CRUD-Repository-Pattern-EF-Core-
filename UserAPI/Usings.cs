@@ -5,4 +5,7 @@ global using System.Collections.Generic;
 global using System.Linq;
 global using System.Threading.Tasks;
 global using UserApi.DAL;
+global using UserApi.DAL.Implementations; 
 global using UserApi.DAL.Models;
+global using UserAPI.BLL.Interfaces;
+using UserApi.DAL.Interfaces;

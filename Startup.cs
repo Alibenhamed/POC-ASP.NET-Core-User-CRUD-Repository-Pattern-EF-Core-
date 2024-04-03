@@ -1,9 +1,19 @@
 public void ConfigureServices(IServiceCollection services)
 {
     services.AddDbContext<MyContext>(options =>
-        options.UseSqlServer("Server=localhost;Database=UserDB;Trusted_Connection=True;"));
-    services.AddScoped<IUserRepository, UserRepository>();
-    services.AddScoped<IUserService, UserService>();
+    options.UseSqlServer("Server=localhost;Database=UserDB;Trusted_Connection=True;"));
+
+
+    public void ConfigureServices(IServiceCollection services)
+    {
+     
+        // Enregistrement de l'implémentation IUserRepository
+        services.AddTransient<IUserRepository, UserRepository>();
+
+        // Enregistrement de UserService
+        services.AddScoped<IUserService, UserService>();
+    }
+
 
     services.AddControllers();
 

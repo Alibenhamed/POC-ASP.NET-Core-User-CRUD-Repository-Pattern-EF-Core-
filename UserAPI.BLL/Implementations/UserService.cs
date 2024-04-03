@@ -1,5 +1,9 @@
-﻿
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.ChangeTracking;
+using UserApi.DAL.Implementations;
 using UserApi.DAL.Interfaces;
+using UserApi.DAL.Models;
+using Microsoft.EntityFrameworkCore.Design;
 
 public class UserService : IUserService
 {
@@ -18,29 +22,40 @@ public class UserService : IUserService
 
     public async Task<User> GetUserByIdAsync(int id)
     {
-        return await _context.Users.FindAsync(id);
+        var user = await _userRepository.GetByIdAsync(id);
+        if (user == null)
+        {
+            throw new InvalidOperationException($"Utilisateur avec ID {id} introuvable.");
+        }
+        return user;
     }
+
 
     public async Task<User> AddUserAsync(User user)
     {
-        _context.Users.Add(user);
-        await _context.SaveChangesAsync();
+         await _userRepository.CreateAsync(user);
+        await _userRepository.SaveChangesAsync();
         return user;
+    }
+    public EntityEntry<User> Entry(User user)
+    {
+        return _userRepository.Entry(user);
     }
 
     public async Task<User> UpdateUserAsync(User user)
     {
-        _context.Entry(user).State = EntityState.Modified;
-        await _context.SaveChangesAsync();
+        _userRepository.Entry(user).State = EntityState.Modified;
+        await _userRepository.SaveChangesAsync();
         return user;
     }
 
+  
     public async Task DeleteUserAsync(int id)
     {
-        var user = await _context.Users.FindAsync(id);
-        if (user == null) throw new Exception("User not found");
+        var user = await _userRepository.GetByIdAsync(id);
+        if (user == null) throw new InvalidOperationException($"Utilisateur avec ID {id} introuvable.");
 
-        _context.Users.Remove(user);
-        await _context.SaveChangesAsync();
+        await _userRepository.DeleteAsync(id);
+        await _userRepository.SaveChangesAsync();
     }
 }

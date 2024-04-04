@@ -28,7 +28,7 @@ UserAPI.BLL : Projet pour la logique métier.
 
 Prérequis :
 .NET 6 SDK
--SQL Server (ou un autre SGBD pris en charge par EF Core)
+-SQL Server 
 
 Configuration : 
 - Cloner ce dépôt.
